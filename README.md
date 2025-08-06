@@ -13,11 +13,11 @@ Both networks were **simulated using Cisco Packet Tracer and GNS3** following st
 /UOM_Network_Project/
 │
 ├── Entc_network.pkt               # Cisco Packet Tracer file for ENTC LAN
-├── UNI_backbone       # Cisco Packet Tracer file for UOM backbone
+├── LAN_Report.pdf                 # Final project report
+├── README.md                      # Project summary and simulation guide
 │
-├── LAN_Report.pdf                     # Final project report
 │
-└── README.md                      # Project summary and simulation guide
+└── UNI_backbone                   # Cisco Packet Tracer file for UOM backbone
 ```
 
 ---
