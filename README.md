@@ -140,22 +140,6 @@ Each department/building has a unique subnet using `/22` or `/24`. Below is a sa
 
 ---
 
-## 📦 Bill of Materials (BOQ)
-
-Two Excel files provided:
-- `Bill_of_Materials_ENTC.xlsx`
-- `Bill_of_Materials_UOM.xlsx`
-
-Breakdown:
-- Switches (Core/Access)
-- Wireless APs
-- Fiber/Copper cables (in meters)
-- Patch panels
-- Racks
-- Connectors and transceivers
-
----
-
 ## 🔧 How to Run Simulation
 
 1. Open **Cisco Packet Tracer**.
