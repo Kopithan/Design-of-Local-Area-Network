@@ -156,8 +156,8 @@ Breakdown:
 
 1. Open **Cisco Packet Tracer**.
 2. Load the following files:
-   - `ENTC_Network.pkt` – for ENTC LAN simulation
-   - `UOM_Backbone_Network.pkt` – for backbone routing simulation
+   - `Entc_network.pkt` – for ENTC LAN simulation
+   - `UNI_backbone` – for backbone routing simulation
 3. Check:
    - IP connectivity (`ping`)
    - OSPF convergence (`show ip route`)
